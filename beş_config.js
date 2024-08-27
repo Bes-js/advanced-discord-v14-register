@@ -1,7 +1,7 @@
 module.exports = {
 
-token:"", //Bot Tokeniniz => Bot Oluşturduktan Sonra Intentsleri Açmayı Unutma!
-guildID:"", //Kullanıcağın Sunucunun ID'si
+token:"MTI3ODA4MTkzMTAzMTg3MTY2MA.GD7jXQ.KV3tLaWLBBrF2EJP8cP9hnmdDkl9r3XMyCF5P4", //Bot Tokeniniz => Bot Oluşturduktan Sonra Intentsleri Açmayı Unutma!
+guildID:"1272619254331478169", //Kullanıcağın Sunucunun ID'si
 botDurum:"Beş Was Here", //Botun Durumu
 footer:"Beş & Luppux", //Embedların Footer Yazısı
 botOwners:["928259219038302258"], //Bot Sahibinin ID'si
